@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IDScannerB3</string>
+
+    <string name="title_activity_ocr_capture">OcrCaptureActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="low_storage_error">Weinig geheugen beschikbaar</string>
+    <string name="no_camera_permission">Geen toegang tot camera</string>
+    <string name="ok">Oké</string>
+</resources>
